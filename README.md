@@ -3,7 +3,7 @@
 ### Date created
 Include the date you created this project and README file.
 
-### Bikeshare Project
+## Bikeshare Project
 
 ### Description
 The project is about xyz.
