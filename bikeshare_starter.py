@@ -6,6 +6,8 @@ import numpy as np
 
 # Change 2 for GitHub project. Let's call it: "Insertion of new calendar"
 
+# Change 3 for GitHub project. Let's call it: "Fix of trip duration"
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
