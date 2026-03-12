@@ -13,6 +13,9 @@ And so on and so on...
 ### Files used
 Include the files used
 
+### Known Bugs
+Describe what the known bugs are.
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
