@@ -19,3 +19,5 @@ Describe what the known bugs are.
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Copyright information
+insert here.
